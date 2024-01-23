@@ -1,8 +1,7 @@
 ---
-title: Financial Statements
-author: Tao He
+title: 1 Financial Statements
 date: 2023-12-12
-category: Jekyll
+category: Notes
 layout: post
 mermaid: true
 ---
