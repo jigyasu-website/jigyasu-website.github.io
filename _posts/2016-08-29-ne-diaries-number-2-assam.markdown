@@ -19,6 +19,6 @@ If you recall pics from Day2, we stopped at Nameri EcoPark for lunch. It was a l
 
 ## Day6 : Kajiranga
 
-## Day7 : Kaziranga -> Majuli
+## Day7 : Kaziranga -> Majuli 
 
 
