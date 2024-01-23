@@ -53,7 +53,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  notes:
+  Notes:
     output: true
     title: Rishi Notes
     permalink : /:collection/:title:output_ext
