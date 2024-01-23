@@ -25,4 +25,4 @@ YouTube URL: (https://youtu.be/7rW7lpQZpqY)
 2. Income Statement : How much business earned, capturing details of revenue and expenses
 3. Cash Flow : Reports on cash inflow and outflow to the firm during the period of analysis
 
-<img src="Images/1 Financial Statements - Interconnections.jpg" alt="1 Financial Statements - Interconnections" style="zoom:50%;" />
+
